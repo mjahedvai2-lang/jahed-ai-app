@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AI Explainer</string>
+    <string name="model_name">gemini-3.8-flash</string>
+    <string name="tagline">Explore how AI works with Gemini 3.8 Flash</string>
+    <string name="default_prompt">Explain how AI works in a few words</string>
+    <string name="run_button_text">Run Interaction</string>
+    <string name="copy_text">Copy</string>
+    <string name="copied_text">Copied to clipboard</string>
+    <string name="creator_name">জাহেদ ভাই</string>
+    <string name="creator_name_en">Jahed vai</string>
+</resources>
+

@@ -1,0 +1,7 @@
+{
+  "name": "AI Explainer",
+  "description": "Explore how AI works and interact with Gemini 3.8 Flash to get concise, intuitive AI explanations and prompt insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
